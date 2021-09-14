@@ -5,7 +5,7 @@
 	<artifactId>simple-app</artifactId>
 	<packaging>war</packaging>
 	<version>1.0.0</version>
-	<name>simple-app</name>
+	<name>simple-appp</name>
 	<url>http://maven.apache.org</url>
 	
 	<dependencies>
